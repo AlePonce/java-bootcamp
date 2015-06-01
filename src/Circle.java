@@ -24,4 +24,9 @@ public class Circle {           // save as "Circle.java"
    public double getArea() {
       return radius*radius*Math.PI;
    }
+   
+// Construtor to construct a new instance of Circle with the given radius and color
+   public Circle (double r, String c) {
+	   
+   }
 }
